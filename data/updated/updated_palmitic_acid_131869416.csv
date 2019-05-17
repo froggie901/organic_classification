@@ -1,0 +1,553 @@
+Unnamed: 0.1,cid,ring,image_saved_as,iupac,mf
+0,5281,0,palmitic_acid_5281,"octadecanoic acid
+","C18H36O2
+"
+1,985,0,palmitic_acid_985,"hexadecanoic acid
+","C16H32O2
+"
+2,8215,0,palmitic_acid_8215,"docosanoic acid
+","C22H44O2
+"
+3,10465,0,palmitic_acid_10465,"heptadecanoic acid
+","C17H34O2
+"
+4,10467,0,palmitic_acid_10467,"icosanoic acid
+","C20H40O2
+"
+5,17085,0,palmitic_acid_17085,"tricosanoic acid
+","C23H46O2
+"
+6,12591,0,palmitic_acid_12591,"nonadecanoic acid
+","C19H38O2
+"
+7,11197,0,palmitic_acid_11197,"tetracosanoic acid
+","C24H48O2
+"
+8,10469,0,palmitic_acid_10469,"hexacosanoic acid
+","C26H52O2
+"
+9,16898,0,palmitic_acid_16898,"henicosanoic acid
+","C21H42O2
+"
+10,10471,0,palmitic_acid_10471,"triacontanoic acid
+","C30H60O2
+"
+11,10470,0,palmitic_acid_10470,"octacosanoic acid
+","C28H56O2
+"
+12,10468,0,palmitic_acid_10468,"pentacosanoic acid
+","C25H50O2
+"
+13,23524,0,palmitic_acid_23524,"heptacosanoic acid
+","C27H54O2
+"
+14,20245,0,palmitic_acid_20245,"nonacosanoic acid
+","C29H58O2
+"
+15,16213464,0,palmitic_acid_16213464,"18,18,18-trideuteriooctadecanoic acid
+","C18H36O2
+"
+16,12358530,0,palmitic_acid_12358530,"16,16,16-trideuteriohexadecanoic acid
+","C16H32O2
+"
+17,16212358,0,palmitic_acid_16212358,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,16-hentriacontadeuteriohexadecanoic acid
+","C16H32O2
+"
+18,12346568,0,palmitic_acid_12346568,"2,2-dideuteriooctadecanoic acid
+","C18H36O2
+"
+19,37982,0,palmitic_acid_37982,"hentriacontanoic acid
+","C31H62O2
+"
+20,71308957,0,palmitic_acid_71308957,"(213C)octadecanoic acid
+","C18H36O2
+"
+21,16217539,0,palmitic_acid_16217539,"(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18-13C18)octadecanoic acid
+","C18H36O2
+"
+22,16217538,0,palmitic_acid_16217538,"(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16-13C16)hexadecanoic acid
+","C16H32O2
+"
+23,16217427,0,palmitic_acid_16217427,"(1,2-13C2)octadecanoic acid
+","C18H36O2
+"
+24,16217356,0,palmitic_acid_16217356,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,17,17,18,18,19,19,20,20,21,21,22,22,22-tritetracontadeuteriodocosanoic acid
+","C22H44O2
+"
+25,16213616,0,palmitic_acid_16213616,"(113C)tetracosanoic acid
+","C24H48O2
+"
+26,16213579,0,palmitic_acid_16213579,"(213C)hexadecanoic acid
+","C16H32O2
+"
+27,16213305,0,palmitic_acid_16213305,"(1,2-13C2)hexadecanoic acid
+","C16H32O2
+"
+28,16211897,0,palmitic_acid_16211897,"(113C)octadecanoic acid
+","C18H36O2
+"
+29,12358526,0,palmitic_acid_12358526,"2,2-dideuteriohexadecanoic acid
+","C16H32O2
+"
+30,12346575,0,palmitic_acid_12346575,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,17,17,18,18,18-pentatriacontadeuteriooctadecanoic acid
+","C18H36O2
+"
+31,9881577,0,palmitic_acid_9881577,"(113C)hexadecanoic acid
+","C16H32O2
+"
+32,164729,0,palmitic_acid_164729,"(114C)hexadecanoic acid
+","C16H32O2
+"
+33,86588300,0,palmitic_acid_86588300,"octadecanoic acid;hydrate
+","C18H38O3
+"
+34,71309333,0,palmitic_acid_71309333,"13,13,14,14,15,15,16,16,16-nonadeuteriohexadecanoic acid
+","C16H32O2
+"
+35,44256493,0,palmitic_acid_44256493,"22,22,22-trideuteriodocosanoic acid
+","C22H44O2
+"
+36,12358538,0,palmitic_acid_12358538,"(1613C)hexadecanoic acid
+","C16H32O2
+"
+37,164708,0,palmitic_acid_164708,"(114C)octadecanoic acid
+","C18H36O2
+"
+38,134554,0,palmitic_acid_134554,"9,10-ditritiohexadecanoic acid
+","C16H32O2
+"
+39,123769322,0,palmitic_acid_123769322,"heptadecanoic acid
+","C17H33O2+
+"
+40,118796525,0,palmitic_acid_118796525,"16,16,17,17,18,18,18-heptadeuteriooctadecanoic acid
+","C18H36O2
+"
+41,91410148,0,palmitic_acid_91410148,"hexadecanoic acid;molecular hydrogen
+","C16H34O2
+"
+42,88699632,0,palmitic_acid_88699632,"dodecanoic acid;undecane
+","C23H48O2
+"
+43,88699233,0,palmitic_acid_88699233,"dodecane;tetradecanoic acid
+","C26H54O2
+"
+44,88461477,0,palmitic_acid_88461477,"(614C)hexadecanoic acid
+","C16H32O2
+"
+45,88395998,0,palmitic_acid_88395998,"docosanoic acid;heptane
+","C29H60O2
+"
+46,88354373,0,palmitic_acid_88354373,"heptane;octadecanoic acid
+","C25H52O2
+"
+47,88354369,0,palmitic_acid_88354369,"heptane;tetradecanoic acid
+","C21H44O2
+"
+48,88353969,0,palmitic_acid_88353969,"heptane;hexadecanoic acid
+","C23H48O2
+"
+49,88352663,0,palmitic_acid_88352663,"dodecanoic acid;hexane
+","C18H38O2
+"
+50,88312150,0,palmitic_acid_88312150,"hexadecanoic acid;pentadecane
+","C31H64O2
+"
+51,88301430,0,palmitic_acid_88301430,"decanoic acid;dodecane
+","C22H46O2
+"
+52,88256873,0,palmitic_acid_88256873,"butane;dodecanoic acid
+","C16H34O2
+"
+53,88106644,0,palmitic_acid_88106644,"octadecanoic acid;thorium
+","C18H36O2Th
+"
+54,87769205,0,palmitic_acid_87769205,"butane;octadecanoic acid
+","C22H46O2
+"
+55,87601860,0,palmitic_acid_87601860,"hexadecanoic acid;hydrate
+","C16H34O3
+"
+56,87256461,0,palmitic_acid_87256461,"hexane;octanoic acid
+","C20H44O2
+"
+57,87106257,0,palmitic_acid_87106257,"hexadecanoic acid;methane
+","C17H36O2
+"
+58,87071223,0,palmitic_acid_87071223,"octadecanoic acid;octane
+","C26H54O2
+"
+59,57694191,0,palmitic_acid_57694191,"1-hydroxyoctadecylideneoxidanium
+","C18H37O2+
+"
+60,54206708,0,palmitic_acid_54206708,"ethane;octadecanoic acid
+","C20H42O2
+"
+61,45934052,0,palmitic_acid_45934052,"2,2-dideuteriodocosanoic acid
+","C22H44O2
+"
+62,44256495,0,palmitic_acid_44256495,"26,26,26-trideuteriohexacosanoic acid
+","C26H52O2
+"
+63,44256494,0,palmitic_acid_44256494,"24,24,24-trideuteriotetracosanoic acid
+","C24H48O2
+"
+64,44256492,0,palmitic_acid_44256492,"20,20,20-trideuterioicosanoic acid
+","C20H40O2
+"
+65,44256491,0,palmitic_acid_44256491,"17,17,17-trideuterioheptadecanoic acid
+","C17H34O2
+"
+66,19973753,0,palmitic_acid_19973753,"hexane;octadecanoic acid
+","C24H50O2
+"
+67,19961414,0,palmitic_acid_19961414,"methane;octadecanoic acid
+","C19H40O2
+"
+68,16213444,0,palmitic_acid_16213444,"(1,2,3,4-13C4)hexadecanoic acid
+","C16H32O2
+"
+69,12358535,0,palmitic_acid_12358535,"16-deuteriohexadecanoic acid
+","C16H32O2
+"
+70,175783,0,palmitic_acid_175783,"(114C)heptadecanoic acid
+","C17H34O2
+"
+71,132278473,0,palmitic_acid_132278473,"2,2,3-trideuteriooctadecanoic acid
+","C18H36O2
+"
+72,132277959,0,palmitic_acid_132277959,"2,2,3,3-tetradeuteriotetracosanoic acid
+","C24H48O2
+"
+73,129892628,0,palmitic_acid_129892628,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,17,17,18,18,19,19,19-heptatriacontadeuteriononadecanoic acid
+","C19H38O2
+"
+74,129892343,0,palmitic_acid_129892343,"2,2,3,3-tetradeuteriodocosanoic acid
+","C22H44O2
+"
+75,129847433,0,palmitic_acid_129847433,"2,2,3-trideuteriodocosanoic acid
+","C22H44O2
+"
+76,129775731,0,palmitic_acid_129775731,"2,2,3-trideuteriohexadecanoic acid
+","C16H32O2
+"
+77,129728272,0,palmitic_acid_129728272,"2,2,3,3-tetradeuteriooctadecanoic acid
+","C18H36O2
+"
+78,129725714,0,palmitic_acid_129725714,"6,7-dideuteriooctadecanoic acid
+","C18H36O2
+"
+79,129724971,0,palmitic_acid_129724971,"5,5-dideuterioheptadecanoic acid
+","C17H34O2
+"
+80,129724936,0,palmitic_acid_129724936,"6,6-dideuteriooctadecanoic acid
+","C18H36O2
+"
+81,129722409,0,palmitic_acid_129722409,"icosanoic acid;hydrate
+","C20H42O3
+"
+82,129717136,0,palmitic_acid_129717136,"decanoic acid;heptane
+","C17H36O2
+"
+83,129680601,0,palmitic_acid_129680601,"2,16,16,18,18-pentadeuteriooctadecanoic acid
+","C18H36O2
+"
+84,129680600,0,palmitic_acid_129680600,"2,2,3,3,4-pentadeuteriooctadecanoic acid
+","C18H36O2
+"
+85,129633600,0,palmitic_acid_129633600,"2-deuteriohexadecanoic acid
+","C16H32O2
+"
+86,124203165,0,palmitic_acid_124203165,"deuterio octadecanoate
+","C18H36O2
+"
+87,123136074,0,palmitic_acid_123136074,"2,2,3-trideuterioheptadecanoic acid
+","C17H34O2
+"
+88,102602215,0,palmitic_acid_102602215,"9,9,10,10-tetradeuteriooctadecanoic acid
+","C18H36O2
+"
+89,102601031,0,palmitic_acid_102601031,"4,4-dideuteriohexadecanoic acid
+","C16H32O2
+"
+90,102044916,0,palmitic_acid_102044916,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,17,17,18,18,19,19,20,20,20-nonatriacontadeuterioicosanoic acid
+","C20H40O2
+"
+91,91555690,0,palmitic_acid_91555690,"12,12,13,13-tetradeuteriohexacosanoic acid
+","C26H52O2
+"
+92,91157233,0,palmitic_acid_91157233,"2-deuteriooctadecanoic acid
+","C18H36O2
+"
+93,90779191,0,palmitic_acid_90779191,"(513C)hexadecanoic acid
+","C16H32O2
+"
+94,90474155,0,palmitic_acid_90474155,"4,4-dideuteriooctadecanoic acid
+","C18H36O2
+"
+95,88924420,0,palmitic_acid_88924420,"octane;octanoic acid
+","C16H34O2
+"
+96,88542337,0,palmitic_acid_88542337,"dodecane;hexadecanoic acid
+","C28H58O2
+"
+97,87769685,0,palmitic_acid_87769685,"butane;hexadecanoic acid
+","C20H42O2
+"
+98,87757311,0,palmitic_acid_87757311,"docosanoic acid;hydrate
+","C22H46O3
+"
+99,87329235,0,palmitic_acid_87329235,"methane;tetracosanoic acid
+","C25H52O2
+"
+100,72715982,0,palmitic_acid_72715982,"ethane;tetradecanoic acid
+","C16H34O2
+"
+101,71309479,0,palmitic_acid_71309479,"(1,3,5,7,9-13C5)hexadecanoic acid
+","C16H32O2
+"
+102,71309172,0,palmitic_acid_71309172,"(1813C)octadecanoic acid
+","C18H36O2
+"
+103,71309163,0,palmitic_acid_71309163,"(5,6,7,8-13C4)hexadecanoic acid
+","C16H32O2
+"
+104,71309010,0,palmitic_acid_71309010,"17,17,18,18,18-pentadeuteriooctadecanoic acid
+","C18H36O2
+"
+105,71308814,0,palmitic_acid_71308814,"(2,4,6,8,10,12,14,16-13C8)hexadecanoic acid
+","C16H32O2
+"
+106,46891888,0,palmitic_acid_46891888,"ethane;pentadecanoic acid
+","C17H36O2
+"
+107,12358543,0,palmitic_acid_12358543,"2,2,3,3-tetradeuteriohexadecanoic acid
+","C16H32O2
+"
+108,450627,0,palmitic_acid_450627,"(411C)hexadecanoic acid
+","C16H32O2
+"
+109,450628,0,palmitic_acid_450628,"(1311C)hexadecanoic acid
+","C16H32O2
+"
+110,450634,0,palmitic_acid_450634,"(111C)hexadecanoic acid
+","C16H32O2
+"
+111,450635,0,palmitic_acid_450635,"(1511C)hexadecanoic acid
+","C16H32O2
+"
+112,450636,0,palmitic_acid_450636,"(1611C)hexadecanoic acid
+","C16H32O2
+"
+113,450637,0,palmitic_acid_450637,"(1411C)hexadecanoic acid
+","C16H32O2
+"
+114,3774129,0,palmitic_acid_3774129,"octadecanoyloxidanium
+","C18H37O2+
+"
+115,9838881,0,palmitic_acid_9838881,"(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16-14C16)hexadecanoic acid
+","C16H32O2
+"
+116,10778486,0,palmitic_acid_10778486,"2,2,3,3,4,4,5,5,6,6,7,7,8,8-tetradecadeuteriohexadecanoic acid
+","C16H32O2
+"
+117,10858230,0,palmitic_acid_10858230,"(2R,3R)-2,3,4,4-tetradeuteriohexadecanoic acid
+","C16H32O2
+"
+118,10967602,0,palmitic_acid_10967602,"(11R,12R)-2,2,3,4,5,5,6,6,7,8,9,9,11,12-tetradecadeuteriohexadecanoic acid
+","C16H32O2
+"
+119,11065086,0,palmitic_acid_11065086,"(1213C)hexadecanoic acid
+","C16H32O2
+"
+120,11161537,0,palmitic_acid_11161537,"(111C)heptadecanoic acid
+","C17H34O2
+"
+121,11288470,0,palmitic_acid_11288470,"(11S)-9,9,10,10,11-pentadeuteriohexadecanoic acid
+","C16H32O2
+"
+122,11379987,0,palmitic_acid_11379987,"(12S)-10,10,11,11,12-pentadeuteriohexadecanoic acid
+","C16H32O2
+"
+123,11551870,0,palmitic_acid_11551870,"(113C)docosanoic acid
+","C22H44O2
+"
+124,12049258,0,palmitic_acid_12049258,"deuterio 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,16-hentriacontadeuteriohexadecanoate
+","C16H32O2
+"
+125,12254363,0,palmitic_acid_12254363,"2,2-dideuterioicosanoic acid
+","C20H40O2
+"
+126,12311211,0,palmitic_acid_12311211,"3,3,5,5-tetradeuteriotetracosanoic acid
+","C24H48O2
+"
+127,12358527,0,palmitic_acid_12358527,"9,10-dideuteriohexadecanoic acid
+","C16H32O2
+"
+128,12358531,0,palmitic_acid_12358531,"7,7,8,8-tetradeuteriohexadecanoic acid
+","C16H32O2
+"
+129,12358542,0,palmitic_acid_12358542,"4,5,6,7-tetradeuteriohexadecanoic acid
+","C16H32O2
+"
+130,16079352,0,palmitic_acid_16079352,"2,2-dideuteriononadecanoic acid
+","C19H38O2
+"
+131,16105970,0,palmitic_acid_16105970,"8,8,9,9,14,14-hexadeuteriohexadecanoic acid
+","C16H32O2
+"
+132,16105992,0,palmitic_acid_16105992,"8,8,9,9,13,13-hexadeuteriohexadecanoic acid
+","C16H32O2
+"
+133,25240031,0,palmitic_acid_25240031,"10,10,11,11,12-pentadeuteriohexadecanoic acid
+","C16H32O2
+"
+134,25240194,0,palmitic_acid_25240194,"2,2,3,4,5,5,6,6,7,8,9,9,11,12-tetradecadeuteriohexadecanoic acid
+","C16H32O2
+"
+135,25240456,0,palmitic_acid_25240456,"2,3,4,4-tetradeuteriohexadecanoic acid
+","C16H32O2
+"
+136,25240480,0,palmitic_acid_25240480,"9,9,10,10,11-pentadeuteriohexadecanoic acid
+","C16H32O2
+"
+137,25240600,0,palmitic_acid_25240600,"(11R)-9,9,10,10,11-pentadeuteriohexadecanoic acid
+","C16H32O2
+"
+138,25241142,0,palmitic_acid_25241142,"(12R)-10,10,11,11,12-pentadeuteriohexadecanoic acid
+","C16H32O2
+"
+139,45052086,0,palmitic_acid_45052086,"(1,2,3,4-13C4)heptadecanoic acid
+","C17H34O2
+"
+140,45934053,0,palmitic_acid_45934053,"3,3,5,5-tetradeuteriodocosanoic acid
+","C22H44O2
+"
+141,45934080,0,palmitic_acid_45934080,"3,3,5,5-tetradeuteriohexacosanoic acid
+","C26H52O2
+"
+142,57387008,0,palmitic_acid_57387008,"11,11,12,12,13,13,14,14,15,15,16,16,17,17,18,18,18-heptadecadeuteriooctadecanoic acid
+","C18H36O2
+"
+143,57453455,0,palmitic_acid_57453455,"icosanoic acid;polonium
+","C20H40O2Po
+"
+144,71308850,0,palmitic_acid_71308850,"(15,16-13C2)hexadecanoic acid
+","C16H32O2
+"
+145,71309044,0,palmitic_acid_71309044,"15,15,16,16,16-pentadeuteriohexadecanoic acid
+","C16H32O2
+"
+146,71309787,0,palmitic_acid_71309787,"(1313C)hexadecanoic acid
+","C16H32O2
+"
+147,71479987,0,palmitic_acid_71479987,"13,13,14,14-tetradeuteriohexadecanoic acid
+","C16H32O2
+"
+148,76974673,0,palmitic_acid_76974673,"8,8,9,9-tetradeuteriodocosanoic acid
+","C22H44O2
+"
+149,76974674,0,palmitic_acid_76974674,"10,10,11,11-tetradeuteriotetracosanoic acid
+","C24H48O2
+"
+150,87195859,0,palmitic_acid_87195859,"heptadecanoic acid;methane
+","C18H38O2
+"
+151,87328819,0,palmitic_acid_87328819,"methane;triacontanoic acid
+","C31H64O2
+"
+152,87329158,0,palmitic_acid_87329158,"methane;octacosanoic acid
+","C29H60O2
+"
+153,87329231,0,palmitic_acid_87329231,"hexacosanoic acid;methane
+","C27H56O2
+"
+154,88243506,0,palmitic_acid_88243506,"hexadecanoic acid;hydron
+","C16H33O2+
+"
+155,90472217,0,palmitic_acid_90472217,"12-deuteriohexadecanoic acid
+","C16H32O2
+"
+156,90474170,0,palmitic_acid_90474170,"12-deuteriooctadecanoic acid
+","C18H36O2
+"
+157,90475915,0,palmitic_acid_90475915,"5,5,6,6-tetradeuteriohexadecanoic acid
+","C16H32O2
+"
+158,90475916,0,palmitic_acid_90475916,"11,11,12,12-tetradeuteriohexadecanoic acid
+","C16H32O2
+"
+159,90476706,0,palmitic_acid_90476706,"9,9,10,10-tetratritiohexadecanoic acid
+","C16H32O2
+"
+160,90477412,0,palmitic_acid_90477412,"9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,16-heptadecadeuteriohexadecanoic acid
+","C16H32O2
+"
+161,101029267,0,palmitic_acid_101029267,"3,3-dideuteriohexadecanoic acid
+","C16H32O2
+"
+162,101029268,0,palmitic_acid_101029268,"deuterio 9,9-dideuteriohexadecanoate
+","C16H32O2
+"
+163,101029269,0,palmitic_acid_101029269,"9,9-dideuteriohexadecanoic acid
+","C16H32O2
+"
+164,101029270,0,palmitic_acid_101029270,"4,4-dideuterioheptadecanoic acid
+","C17H34O2
+"
+165,101927485,0,palmitic_acid_101927485,"14-tritiohexadecanoic acid
+","C16H32O2
+"
+166,102352988,0,palmitic_acid_102352988,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,17,17,18,18,19,19,20,20,21,21,22,22,23,23,24,24,24-heptatetracontadeuteriotetracosanoic acid
+","C24H48O2
+"
+167,102601131,0,palmitic_acid_102601131,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,17,17,17-tritriacontadeuterioheptadecanoic acid
+","C17H34O2
+"
+168,102602327,0,palmitic_acid_102602327,"13,13-dideuteriohexadecanoic acid
+","C16H32O2
+"
+169,117064388,0,palmitic_acid_117064388,"16,16,16-trideuterio(1613C)hexadecanoic acid
+","C16H32O2
+"
+170,118855852,0,palmitic_acid_118855852,"(113C)icosanoic acid
+","C20H40O2
+"
+171,119080625,0,palmitic_acid_119080625,"15-deuteriohexadecanoic acid
+","C16H32O2
+"
+172,124137281,0,palmitic_acid_124137281,"2-tritiooctadecanoic acid
+","C18H36O2
+"
+173,124202735,0,palmitic_acid_124202735,"(4,6,8,10,12,14,16-13C7)hexadecanoic acid
+","C16H32O2
+"
+174,131701154,0,palmitic_acid_131701154,"2,2,3,3,4-pentadeuteriohexadecanoic acid
+","C16H32O2
+"
+175,131701169,0,palmitic_acid_131701169,"2,2,3,3-tetradeuteriohexacosanoic acid
+","C26H52O2
+"
+176,131701216,0,palmitic_acid_131701216,"2,2,3,3,4,4,5-heptadeuteriooctadecanoic acid
+","C18H36O2
+"
+177,131868721,0,palmitic_acid_131868721,"7,7,8,8-tetradeuteriodocosanoic acid
+","C22H44O2
+"
+178,131869235,0,palmitic_acid_131869235,"12,12,13,13-tetradeuteriotetracosanoic acid
+","C24H48O2
+"
+179,131869236,0,palmitic_acid_131869236,"9,9,10,10-tetradeuteriotetracosanoic acid
+","C24H48O2
+"
+180,131869323,0,palmitic_acid_131869323,"2,2,16,16,16-pentadeuteriohexadecanoic acid
+","C16H32O2
+"
+181,131869358,0,palmitic_acid_131869358,"17,17,18,18-tetradeuterioicosanoic acid
+","C20H40O2
+"
+182,131869398,0,palmitic_acid_131869398,"12,12,13,13-tetradeuteriodocosanoic acid
+","C22H44O2
+"
+183,131869416,0,palmitic_acid_131869416,"11,11-dideuteriohexadecanoic acid
+","C16H32O2
+"

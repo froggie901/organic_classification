@@ -1,0 +1,33 @@
+﻿fn_group,not_ring,ring,stucture1,stucure2,images,mf_iupac (updated),cleaned,false_positives,abr
+alkene,1,0,1_pentene_137124042,,1,1,1,1,AKE
+alkane,1,0,methyl_isopropyl_ketone_135973482,,1,1,1,1,AKA
+nitrile,1,0,isobutyronitrile_135973469.csv,,1,1,1,1,NIT
+amine,1,0,butylamine_135963035.csv,,1,1,1,1,AMN
+alkene,1,0,buta_1_3_diene_136916074.csv,,1,1,1,1,ALC
+alcohol,1,0,butane_1_4_diol_137404840.csv,,1,1,1,1,AKE
+alkene,0,1,Cyclohexene.csv,,1,1,1,1,AKE
+alkene,0,1,methylcyclopentadiene_137390916.csv,,1,1,1,1,AKE
+alkane,1,0,glycerol_137424636.csv,,1,1,1,1,AKA
+FA,1,0,palmitic_acid_131869416.csv,,1,1,1,1,FA
+coumarin,0,1,2_hydroxy_cinnamic_acid_133671008.csv,,1,1,1,1,ring
+COH,0,1,benzaldehyde_132570148.csv,,1,1,1,1,COH
+alkene,0,1,2_methylbutyl_cyclopentene_134887291.csv,,1,1,1,1,AKE
+alkane,1,1,,,2,,,,AKA
+alkene,1,1,,,2,,,,AKE
+alkyne,1,1,,,2,,,,AKY
+benzene,,2,,,2,,,,BNZ
+amine,1,1,,,2,,,,AMN
+alcohol,1,1,,,2,,,,ALC
+ether,1,1,,,1,,,,COC
+alkyl halide,1,1,,,,,,,AKH
+thiol,,,,,,,,,SHH
+COO,,,,,,,,,COO
+COH,,,,,,,,,COH
+CO,,,,,,,,,KEY
+COONH2,,,,,,,,,COONH2
+,,,,,,,,,
+,,,,,,,,,
+The positive class (1) is having the functional group! ,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+AKE/KEY,,,,,,,,,
